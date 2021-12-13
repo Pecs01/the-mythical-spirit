@@ -2,11 +2,6 @@ body{
     background-color:#006F48;
     font-family: cursive;
 }
-header a{
-    border-top: 1px solid #399200;
-    margin-top: 0px;
-    margin-left: 300px;
-}
 .intro{
     text-align: center;
 } 
@@ -23,9 +18,12 @@ header a{
     color:#AE2C4C;
     text-align:center;
     text-decoration: none;
-    margin-left: 400px;
+    margin-left: 500px;
     font-size: 20px;
-    margin-bottom:0px;
+    margin-bottom:0px; 
+    border-top: 1px solid #399200;
+    margin-top: 0px;
+
 
 }
 main h1{
